@@ -2,7 +2,7 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mash1408.mash1408)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mash1408&show_icons=true&theme=nord)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mash1408&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mash1408&theme=city_lights)
 <!--
 **mash1408/mash1408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
